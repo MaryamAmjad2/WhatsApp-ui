@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Untitled design](https://github.com/MaryamAmjad2/WhatsApp-ui/assets/87093456/bbd28515-f23b-47e8-9c70-6d8a4ab19527)
